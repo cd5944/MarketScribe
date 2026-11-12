@@ -1,0 +1,14 @@
+# Personal game data and the original handoff package (contain character/account details)
+data/
+extracted/
+*.zip
+
+# Secrets
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

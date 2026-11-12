@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: MarketScribe
+## Notes: Passive, read-only recorder of auction listings, vendor inventories, recipes and item sell prices for offline analysis.
+## Author: Chris
+## Version: 0.1.0
+## SavedVariables: MarketScribeDB
+
+Core.lua
+AuctionScan.lua
+Merchant.lua
+TradeSkill.lua
+Character.lua
